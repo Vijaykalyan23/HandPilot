@@ -6,7 +6,7 @@
 
 ## 📸 Demo
 
-![Screenshot 2025-06-11 111936](https://github.com/user-attachments/assets/91d87f1d-1e83-401b-832d-ee8236d88daf)
+![1000201153](https://github.com/user-attachments/assets/02326bdf-0d44-4b43-a9ec-49f70819da5c)
 
 >
  <p align="center">
