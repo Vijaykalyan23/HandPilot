@@ -6,12 +6,13 @@
 
 ## 📸 Demo
 
-> 📷 **Coming Soon:** Add a screenshot or GIF showing hand gestures controlling your PC.
-> 
-> To add it later, use:
-> ```markdown
-> ![HandPilot Demo](demo.gif)
-> ```
+![Screenshot 2025-06-11 111936](https://github.com/user-attachments/assets/91d87f1d-1e83-401b-832d-ee8236d88daf)
+
+>
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/6579e133-367b-48ed-8969-d09f35a99601" alt="HandPilot Demo" width="800"/>
+</p>
+
 
 ---
 
